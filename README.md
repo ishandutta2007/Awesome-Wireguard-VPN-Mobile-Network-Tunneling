@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Wireguard-VPN-Mobile-Network-Tunneling/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Wireguard-VPN-Mobile-Network-Tunneling?style=flat-square&color=gold" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Wireguard-VPN-Mobile-Network-Tunneling/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Wireguard-VPN-Mobile-Network-Tunneling?style=flat-square&color=gold" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Wireguard-VPN-Mobile-Network-Tunneling/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Wireguard-VPN-Mobile-Network-Tunneling?style=flat-square&color=blue" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Wireguard-VPN-Mobile-Network-Tunneling/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Wireguard-VPN-Mobile-Network-Tunneling?style=flat-square&color=red" alt="GitHub Issues" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Wireguard-VPN-Mobile-Network-Tunneling/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Wireguard-VPN-Mobile-Network-Tunneling?style=flat-square&color=green" alt="License" /></a>
@@ -86,7 +86,7 @@ The following table benchmarks notable SaaS platforms, commercial privacy VPNs, 
 
 A comprehensive collection of open-source WireGuard engines, auto-tunneling mobile clients, post-quantum extensions, self-hosted controllers, and anti-censorship wrappers. The table is strictly sorted in **descending order by GitHub stargazers count** ⭐:
 
-| Project & Repository | GitHub Stars 🌟 | Primary Category / Focus | Description & Architectural Highlights |
+| Project & Repository | GitHub_Stars 🌟 | Primary Category / Focus | Description & Architectural Highlights |
 | :--- | :---: | :--- | :--- |
 | **[juanfont/headscale](https://github.com/juanfont/headscale)** | [![Stars](https://img.shields.io/github/stars/juanfont/headscale?style=social&color=white)](https://github.com/juanfont/headscale/stargazers) | Self-Hosted Mesh Controller | Open-source, self-hosted implementation of the Tailscale coordination server enabling full privacy and complete infrastructure control with official Tailscale mobile clients. |
 | **[tailscale/tailscale](https://github.com/tailscale/tailscale)** | [![Stars](https://img.shields.io/github/stars/tailscale/tailscale?style=social&color=white)](https://github.com/tailscale/tailscale/stargazers) | Mesh VPN Client & Engine | The official open-source Tailscale client node, WireGuard userspace engine, MagicDNS client, and cross-platform mobile/desktop CLI tools. |
